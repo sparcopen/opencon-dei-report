@@ -17,8 +17,8 @@ Although OpenCon participants come from diverse geographical locations, over the
 
 ### What does the repository contain?  
 
-## - Wiki for anyone to contribute to 
+#### - Wiki for anyone to contribute to 
 
-## - PDF version to download of the report (Version released June 2017)
+#### - PDF version to download of the report (Version released June 2017)
 
-## - Downloadable open data sets from OpenCon 
+#### - Downloadable open data sets from OpenCon 
