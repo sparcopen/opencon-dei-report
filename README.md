@@ -15,13 +15,10 @@ Although OpenCon participants come from diverse geographical locations, over the
 - Share our learnings as conference organizers and encourage others to organize events that center on diversity, equity, and inclusion
 - Encourage iteration and feedback from the broader community 
 
-### What does this report contain? 
+### What does the repository contain?  
 
-#### Planning an Inclusive Conference
-We outline practices we have incorporated into our conference planning so far, as well as areas that require more attention. 
+## - Wiki for anyone to contribute to 
 
-#### Conference Checklist
-Drawing both from our own practices and public resources on inclusive and accessible event planning, we have created a standard checklist of actions conference organizers can take when planning events, workshops, and conferences. 
+## - PDF version to download of the report (Version released June 2017)
 
-#### OpenCon Assessment (2014-2016):  
-We share statistics on OpenCon’s global conference diversity from 2014 to 2016, indicating areas of improvement over our three-year history, and areas that still need work. 
+## - Downloadable open data sets from OpenCon 
