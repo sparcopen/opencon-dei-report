@@ -8,10 +8,16 @@ If you don't have a specific edit to make directly to the Wiki, but have a gener
 ## How to contribute
 
 ### Make edits directly on the Wiki
+1. Make sure you have a Github account, and are logged in.  
+2. Click on the [Wiki tab](https://github.com/sparcopen/opencon-dei-report/wiki).
+3. Click on the page you want to edit using the sidebar.
+4. Click the Edit button on the right hand side of the page.
+5. Once you're done, save any changes by clicking "Commit changes"!  
 
+When making edits, please make sure you are keeping consistent and using Markdown. Here's a quick cheatsheet on formatting in Markdown:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
 
 ### Or – start a discussion topic, for more general concerns (rather than specific edits) 
-Do you see an issue in the report but don't have the capacity to write the copy for it? Do you have a general concern that you'd like to raise publicly for discussion before we add it to the wiki? We encourage you to [**post a new Github Issue**](https://github.com/sparcopen/opencon-dei-report/issues). How to do this:
+Do you see an issue in the report but would rather have us write the copy for it? Do you have a general concern that you'd like to raise publicly for discussion before we add it to the wiki? We encourage you to [**post a new Github Issue**](https://github.com/sparcopen/opencon-dei-report/issues). How to do this:
 1. Make sure you have a Github account, and are logged in.
 2. Click on the [Issues tab](https://github.com/sparcopen/opencon-dei-report/issues). 
 3. Post your comment or feedback as an Issue by clicking "New Issue" in the upper right hand corner. 
@@ -21,6 +27,7 @@ Do you see an issue in the report but don't have the capacity to write the copy 
 - Quick Fix
 - Correction
 - Additional Information
+- Resource/Link
 
 We encourage the community to contribute their feedback to issues that have been raised by other community members, as well! 
 
