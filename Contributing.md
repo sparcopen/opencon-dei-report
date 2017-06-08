@@ -5,14 +5,20 @@ While we've compiled our learnings from the last three years into this guide, we
 ## What kinds of contributions are we looking for?
 If you don't have a specific edit to make directly to the Wiki, but have a general topic you'd like to bring up without writing the copy for it, please let us know!  
 
-## How do I contribute?
+## How to contribute
 
 ### Make edits directly on the Wiki
 
-### Or – start a discussion topic, for more general concerns (rather than specific edits) 
-Do you see an issue in the report but don't have the capacity to write the copy for it? Do you have a general concern that you'd like to raise publicly for discussion? 
 
-### E-mail us directly
+### Or – start a discussion topic, for more general concerns (rather than specific edits) 
+Do you see an issue in the report but don't have the capacity to write the copy for it? Do you have a general concern that you'd like to raise publicly for discussion before we add it to the wiki? We encourage you to [**post a new Github Issue**](https://github.com/sparcopen/opencon-dei-report/issues). How to do this:
+- 1. Make sure you have a Github account, and are logged in.
+- 2. Post your comment or feedback as an Issue by clicking "New Issue" in the upper right hand corner. 
+- 3. If appropriate, assign one of the following labels to your issue: 
+
+We encourage the community to contribute their feedback to issues that have been raised by other community members, as well! 
+
+### E-mail us 
 If you're more comfortable providing your feedback privately, that is also an option! Please e-mail lorraine(at)sparcopen.org with any concerns, comments, or suggested changes. 
 
 ## Additional Notes
