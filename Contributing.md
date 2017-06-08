@@ -1,18 +1,17 @@
 # Contribute to the Diversity, Equity, and Inclusion OpenCon Wiki!
 
-While we've compiled our learnings from the last three years into this guide, we understand that there is always room for improvement. We hope to receive community feedback on the report, and welcome the community and members of the public to make contributions directly to the [wiki](https://github.com/sparcopen/opencon-dei-report/wiki). 
-
-## What kinds of contributions are we looking for?
-If you don't have a specific edit to make directly to the Wiki, but have a general topic you'd like to bring up without writing the copy for it, please let us know!  
+While we've compiled our learnings from the last three years into this guide, we understand that there is always room for improvement. We hope to receive community feedback on the report, and welcome the community and members of the public to make contributions directly to the [wiki](https://github.com/sparcopen/opencon-dei-report/wiki) or provide more general feedback – publicly via Github, or by emailing us. 
 
 ## How to contribute
 
 ### Make edits directly on the Wiki
+Is there information, resources, or corrections you'd like to make to our suggested practices for inclusive and accessible event planning? Please feel free to contribute directly to the wiki. Here are some quick instructions for contributing: 
+
 1. Make sure you have a Github account, and are logged in.  
 2. Click on the [Wiki tab](https://github.com/sparcopen/opencon-dei-report/wiki).
 3. Click on the page you want to edit using the sidebar.
 4. Click the Edit button on the right hand side of the page.
-5. Once you're done, save any changes by clicking "Commit changes"!  
+5. Once you're done, save any changes by clicking "Commit changes".   
 
 When making edits, please make sure you are keeping consistent and using Markdown. Here's a quick cheatsheet on formatting in Markdown:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
 
