@@ -5,7 +5,11 @@ While we've compiled our learnings from the last three years into this guide, we
 ## What kinds of contributions are we looking for?
 
 
-## How do I make changes to the wiki? 
+## How do I contribute?
+
+### Make edits directly on the Wiki
+
+### Or – start a discussion topic, for more general concerns (rather than specific edits) 
 
 
 ## Additional Notes
