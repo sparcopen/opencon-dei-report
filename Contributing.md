@@ -12,9 +12,10 @@ If you don't have a specific edit to make directly to the Wiki, but have a gener
 
 ### Or – start a discussion topic, for more general concerns (rather than specific edits) 
 Do you see an issue in the report but don't have the capacity to write the copy for it? Do you have a general concern that you'd like to raise publicly for discussion before we add it to the wiki? We encourage you to [**post a new Github Issue**](https://github.com/sparcopen/opencon-dei-report/issues). How to do this:
-- 1. Make sure you have a Github account, and are logged in.
-- 2. Post your comment or feedback as an Issue by clicking "New Issue" in the upper right hand corner. 
-- 3. If appropriate, assign one of the following labels to your issue: 
+1. Make sure you have a Github account, and are logged in.
+2. Click on the [Issues tab](https://github.com/sparcopen/opencon-dei-report/issues). 
+3. Post your comment or feedback as an Issue by clicking "New Issue" in the upper right hand corner. 
+4. If appropriate, assign one of the following labels to your issue: 
 
 We encourage the community to contribute their feedback to issues that have been raised by other community members, as well! 
 
