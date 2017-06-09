@@ -11,7 +11,7 @@ Is there information, resources, or corrections you'd like to make to our sugges
 2. Click on the [Wiki tab](https://github.com/sparcopen/opencon-dei-report/wiki).
 3. Click on the page you want to edit using the sidebar.
 4. Click the Edit button on the right hand side of the page.
-5. Once you're done, scroll to the bottom and save any changes by clicking "Commit changes".   
+5. Once you're done, scroll to the bottom and save any changes by clicking "Save page".   
 
 When making edits, please make sure you are keeping consistent and using Markdown. Here's a quick cheatsheet on formatting in Markdown:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
 
