@@ -1,4 +1,4 @@
-# Diversity, Equity, and Inclusion - Event Planning Best Practices - A Collaborative Document 
+# Diversity, Equity, and Inclusion - Event Planning Practices - A Collaborative Document 
 
 ### Note: This wiki is currently under development & review. The PDF version of the report will be released the second week of July. Have feedback in the meantime? Please let us know by submitting an issue on Github, or emailing lorraine(at)sparcopen.org
 
