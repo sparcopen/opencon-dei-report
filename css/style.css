@@ -31,7 +31,7 @@ table {
 }
 h1, h2, h3, h4, h5, h6
 {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 /**media Queries**/
 .navbar-default {
@@ -59,13 +59,13 @@ h1, h2, h3, h4, h5, h6
 }
 .navbar-default .navbar-brand {
     color: #fff;
-	font-size: 34px;
+	font-size: 20px;
 	text-transform: uppercase;
 	font-weight: 700;
 	letter-spacing: 2px;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
-    color: #FFD34E;
+    color: #E84c30;
     background-color: transparent;
     text-transform: uppercase;
 }
@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus
 {
-	color: #FFD34E;
+	color: #E84c30;
 }
 
 .navbar-fixed-top {
@@ -98,7 +98,7 @@ h1, h2, h3, h4, h5, h6
 {
 	z-index: 5;
 	font-size: 27px;
-	font-weight: 700;
+	font-weight: 500;
 	color: #fff;
 	line-height: 38px;
 	letter-spacing: 4px;
@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6
 }
 .sub-title
 {
-	font-size: 50px;
+	font-size: 40px;
 	font-weight: 700;
 	color: #fff;
 	line-height: 71px;
@@ -117,8 +117,8 @@ h1, h2, h3, h4, h5, h6
 }
 .title
 {
-	font-size: 123px;
-	font-weight: 700;
+	font-size: 100px;
+	font-weight: 500;
 	color: #fff;
 	line-height: 88px;
 	letter-spacing: 4px;
@@ -128,7 +128,7 @@ h1, h2, h3, h4, h5, h6
 }
 .btn-submit
 {
-    background: #FFD34E;
+    background: #e84c30;
     border: 0px;
     display: inline-block;
     font-size: 16px;
@@ -146,7 +146,7 @@ h1, h2, h3, h4, h5, h6
     -ms-transition: all 0.4s ease-in-out;
     transition: all 0.4s ease-in-out;
     margin-top: 25px;
-    border: 2px solid  #FFD34E;
+    border: 2px solid  #e84c30;
 }
 
 .btn-submit:hover {
@@ -159,8 +159,8 @@ h1, h2, h3, h4, h5, h6
 }
 .cta-info
 {
-	border: 5px solid #FFD34E;
-	padding: 40px 0px;
+	border: 5px solid #E84c30;
+	padding: 30px 40px;
 }
 .cta-info h3
 {
@@ -314,11 +314,11 @@ h3.txt-tl {
 {
 	border-radius: 0px;
 	color: #000;
-	background-color: #FFD34E;
+	background-color: #E84c30;
 }
 a, a:hover
 {
-	color: #FFD34E;
+	color: #E84c30;
 }
 .cont-title
 {
@@ -398,7 +398,7 @@ a, a:hover
     }
     .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus{
         background-color: rgba(255, 255, 255, 0.32);
-        color: #FFD34E;
+        color: #E84c30;
     }
     .top-title{
         font-size: 15px;
@@ -407,7 +407,7 @@ a, a:hover
         font-size: 50px;
     }
     .sub-title{
-        font-size: 24px;
+        font-size: 40px;
     }
     .footer-copyright {
     text-align: center;
