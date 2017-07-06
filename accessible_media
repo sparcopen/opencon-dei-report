@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Participant-Driven Programming</title>
+    <meta name="description" content="Free Bootstrap Theme by BootstrapMade.com">
+    <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,300|Open+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="css/animate.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <!-- =======================================================
+        Theme Name: Bethany
+        Theme URL: https://bootstrapmade.com/bethany-free-onepage-bootstrap-theme/
+        Author: BootstrapMade.com
+        Author URL: https://bootstrapmade.com
+    ======================================================= -->
+  </head>
+  <body>
+    <!--header-->
+    <header class="main-header5" id="header">
+        <div class="bg-color">
+            <!--nav-->
+            <nav class="nav navbar-default navbar-fixed-top">
+                <div class="container">
+                    <div class="col-md-12">
+                        <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mynavbar" aria-expanded="false" aria-controls="navbar">
+                            <span class="fa fa-bars"></span>
+                        </button>
+                            <a href="index.html" class="navbar-brand">Diversity, Equity, & Inclusion</a>
+                        </div>
+                        <div class="collapse navbar-collapse navbar-right" id="mynavbar">
+                            <ul class="nav navbar-nav">
+                                <li class="active"><a href="#header">Home</a></li>
+                                <li><a href="#feature">Report Sections</a></li>
+                                <li><a href="#portfolio">Contribute</a></li>
+                                <li><a href="#contact">Contact</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+            <!--/ nav-->
+            <div class="container text-center">
+                <div class="wrapper wow fadeInUp delay-05s" >
+<p><br></br></p>
+                    <h4 class="sub-title">Participant-Driven Programming</h4>
+                    <h4><br></br></h4>
+                    <h4 class="top-title">Do participants get a say in what the conference looks like?</h4>
+                    <h4 class="top-title">Are the interests and work of attendees included?</h4>
+                      <h4><br></br></h4>
+
+                    <a href="#feature"><button type="submit" class="btn btn-submit">Read this section</button></a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!--/ header-->
+    <!---->
+    <section id="feature" class="section-padding">
+        <div class="container">
+            <div class="row">
+          <div class="col-md-2">
+          </div>
+              <div class="col-md-8">
+                <p>To make sure we are listening to a diversity of perspectives, much of OpenCon’s programming is driven by–and centred around–highlighting the needs, interests, and work of attendees. <br></br></p>
+
+                <h2>Unconference</h2>
+                <p>The Unconference is a part of the meeting in which participants are able to control content and sessions. Participants get to propose, vote on, and run sessions themselves. This enables peer-to-peer learning, collaboration and diverse session types and topics. Rather than content being exclusively dictated in a top-down fashion from the Organizing Committee, unconference sessions allow for a more participatory conference design that centers the needs and interests of participants. More information on how to run unconference sessions can be found on our <a href="www.opencon2017.org/unconference">unconference webpage.</a><br></br></p>
+
+                <h2>Story Circles</h2>
+                <p>We believe the passionate people that work on advancing open research and education are at the heart of the OpenCon community. Our community members come to work on advancing Open with widely different backstories. In 2016, we gave participants the time and space to hear about each other’s experiences, foster deeper connections with, and empathy for, one another, and build community through Story Circles.</p>
+
+                <p>Participants broke up into small groups (no larger than seven people). Each person was then given the chance to tell their life story in eight minutes—from when they were born to how and why they got to where they are today. The Story Circle session was one of the most highly rated parts of the 2016 meeting, and we would encourage other conferences to consider adopting a similar model. <a href=http://www.opencon2017.org/story_of_self_circles>Access our guide to facilitating story circles here.</a><br></br> </p>
+
+                <h2>Project Presentations</h2>
+                <p>We want OpenCon to be a platform for students and early career academic professionals to showcase their work. Each year, we invite participants to submit proposals for short two-minute presentations about their current work. In 2016, we were inspired by exciting projects and initiatives advancing Open from over twenty participants. We aim to select presenters across Open issue areas (Open Access, Open Education, and Open Data) and geographical regions. As we describe in greater detail <a href=link>in our self assessment</a>, assessing shortcomings in speaker diversity in past years motivated us to be more intentional about increasing the diversity/gender balance in participant project presentations. </p>
+                    </div>
+                </div>
+            </div>
+          </div>
+        </div>
+    </section>
+    <!---->
+    <section class="section-padding parallax bg-image-2 section wow fadeIn delay-08s" id="cta-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="cta-txt">
+                        <h3>Next Section:</h3>
+                        <p>Letting Participants Shape Your Agenda</p>
+                    </div>
+                </div>
+                <div class="col-md-4 text-center">
+                    <a href="#" class="btn btn-submit">Read More</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!---->
+    <!---->
+    <!---->
+    <!---->
+    <footer class="" id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-7 footer-copyright">
+                    © Bethany Theme - All rights reserved
+                    <div class="credits">
+                        <!--
+                            All the links in the footer should remain intact.
+                            You can delete the links only if you purchased the pro version.
+                            Licensing information: https://bootstrapmade.com/license/
+                            Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Bethany
+                        -->
+                        Designed by <a href="https://bootstrapmade.com/">Bootstrap Themes</a>
+                    </div>
+                </div>
+                <div class="col-sm-5 footer-social">
+                    <div class="pull-right hidden-xs hidden-sm">
+                        <a href="#"><i class="fa fa-facebook"></i></a>
+                        <a href="#"><i class="fa fa-dribbble"></i></a>
+                        <a href="#"><i class="fa fa-twitter"></i></a>
+                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                        <a href="#"><i class="fa fa-pinterest"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!---->
+    <!--contact ends-->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/wow.js"></script>
+    <script src="js/custom.js"></script>
+    <script src="contactform/contactform.js"></script>
+
+  </body>
+</html>

@@ -43,6 +43,30 @@ h1, h2, h3, h4, h5, h6
 	background-size: cover;
 	min-height: 610px;
 }
+.main-header3
+{
+	background: url(../img/homepage.jpg) no-repeat;
+	background-size: cover;
+	min-height: 610px;
+}
+.main-header4
+{
+	background: url(../img/homepage2.jpg) no-repeat;
+	background-size: cover;
+	min-height: 610px;
+}
+.main-header5
+{
+	background: url(../img/homepage5.jpg) no-repeat;
+	background-size: cover;
+	min-height: 610px;
+}
+.main-header6
+{
+	background: url(../img/homepage3.jpg) no-repeat;
+	background-size: cover;
+	min-height: 610px;
+}
 .bg-color
 {
 	background-color: RGBA(0, 0, 0, 0.41);
@@ -171,6 +195,11 @@ h1, h2, h3, h4, h5, h6
 	font-size: 34px;
 }
 /****/
+img.centred {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 #feature
 {
 	background-color: #f8f8f8;
