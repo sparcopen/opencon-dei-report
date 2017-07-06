@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6
 }
 .main-header
 {
-	background: url(../img/homepage.jpg) no-repeat;
+	background: url(../img/homepage6.jpg) no-repeat;
 	background-size: cover;
 	min-height: 610px;
 }
@@ -117,11 +117,11 @@ h1, h2, h3, h4, h5, h6
 }
 .title
 {
-	font-size: 100px;
-	font-weight: 500;
+	font-size: 70px;
+	font-weight: 400;
 	color: #fff;
 	line-height: 88px;
-	letter-spacing: 4px;
+	letter-spacing: 10px;
 	opacity: 1;
 	text-transform: uppercase;
 	padding: 25px 0px;
@@ -160,7 +160,7 @@ h1, h2, h3, h4, h5, h6
 .cta-info
 {
 	border: 5px solid #E84c30;
-	padding: 30px 40px;
+	padding: 30px 30px;
 }
 .cta-info h3
 {
@@ -233,7 +233,7 @@ h3.txt-tl {
     background-position: center center;
 }
 .bg-image-2 {
-    background: url('../img/cta-banner.jpg') no-repeat center fixed;
+    background: url('../img/cta-bannerx.jpg') no-repeat center fixed;
     -webkit-background-size: 100% auto;
     -moz-background-size: 100% auto;
     -o-background-size: 100% auto;
@@ -242,6 +242,7 @@ h3.txt-tl {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+		background-color: black;
 }
 .section {
     position: relative;
