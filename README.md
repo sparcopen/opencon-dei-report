@@ -1,7 +1,7 @@
 # Diversity, Equity, and Inclusion - Event Planning Practices - A Collaborative Document
 
 ## OpenCon
-OpenCon is a platform for creating, empowering, and connecting the next generation of leaders to advance Open Access, Open Data and Open Education–across disciplines, and in every corner of the globe. OpenCon’s initiatives include an annual flagship global conference; satellite events organized by volunteer hosts around the world, and ongoing online community.  Each year, OpenCon’s global conference  convenes promising students and early career academic professionals from around the world interested in opening research and education.
+OpenCon is a platform for creating, empowering, and connecting the next generation of leaders to advance Open Access, Open Data and Open Education–across disciplines, and in every corner of the globe. OpenCon’s initiatives include an annual flagship global conference, satellite events organized by volunteer hosts around the world, and ongoing online community.  Each year, OpenCon’s global conference  convenes promising students and early career academic professionals from around the world interested in opening research and education.
 
 ## Diversity, Equity and Inclusion at OpenCon
 
@@ -17,11 +17,11 @@ Although OpenCon participants come from diverse geographical locations, over the
 
 ### What does the repository contain?  
 
-#### - Wiki for anyone to contribute to
-
-#### - PDF version to download of the report (Version released June 2017)
+#### - Files for digital version of report, which can be found at: https://sparcopen.github.io/opencon-dei-report/
 
 #### - Downloadable open data sets from OpenCon
+
+#### - Contributor Guidelines
 
 # More from OpenCon
 
