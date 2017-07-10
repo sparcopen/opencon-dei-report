@@ -12,12 +12,12 @@ Do you see an issue in the report but would rather have us write the copy for it
 2. Click on the [Issues tab](https://github.com/sparcopen/opencon-dei-report/issues).
 3. Post your comment or feedback as an Issue by clicking "New Issue" in the upper right hand corner.
 4. If appropriate, assign one of the following labels to your issue:
-- Feedback
-- Discussion
-- Quick Fix
-- Correction
-- Additional Information
-- Resource/Link
+ - Feedback
+ - Discussion
+ - Quick Fix
+ - Correction
+ - Additional Information
+ - Resource/Link
 
 We encourage the community to contribute their feedback to issues that have been raised by other community members, as well!
 
