@@ -4,20 +4,13 @@ While we've compiled our learnings from the last three years into this guide, we
 
 We're hosting the report and centering discussion around Github to promote open feedback and discussion and allow community members to directly input on report content. This guide aims to help make how to contribute clear and easy.
 
-# How to
+# How to contribute
 
 ### Start a discussion topic, for more general concerns (rather than specific edits) on Github
 Do you see an issue in the report but would rather have us write the copy for it? Do you have a general concern that you'd like to raise publicly for discussion before we add it to the report? We encourage you to [**post a new Github Issue**](https://github.com/sparcopen/opencon-dei-report/issues/new). How to do this:
 1. Make sure you have a Github account, and are logged in.
 2. Click on the [Issues tab](https://github.com/sparcopen/opencon-dei-report/issues).
 3. Post your comment or feedback as an Issue by clicking "New Issue" in the upper right hand corner.
-4. If appropriate, assign one of the following labels to your issue:
-  * Feedback
-  * Discussion
-  * Quick Fix
-  * Correction
-  * Additional Information
-  * Resource/Link
 
 We encourage the community to contribute their feedback to [issues that have been raised by other community members](https://github.com/sparcopen/opencon-dei-report/issues/new), as well!
 
