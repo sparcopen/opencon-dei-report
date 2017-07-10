@@ -4,7 +4,7 @@ While we've compiled our learnings from the last three years into this guide, we
 
 # How to contribute
 
-## Give suggestions
+## Give suggestions
 
 ### Start a discussion topic, for more general concerns (rather than specific edits)
 Do you see an issue in the report but would rather have us write the copy for it? Do you have a general concern that you'd like to raise publicly for discussion before we add it to the wiki? We encourage you to [**post a new Github Issue**](https://github.com/sparcopen/opencon-dei-report/issues). How to do this:
@@ -50,9 +50,9 @@ Please note that all of OpenCon's Diversity, Equity, and Inclusion content is [l
 
 Your contributions will be licensed CC-BY.
 
-# Our code of conduct
+# Our code of conduct
 
-We expect all contributions to follow our [Code of Conduct](https://github.com/sparcopen/opencon-dei-report/blob/master/CODE_OF_CONDUCT.MD). Contributions which don't will be rejected without further review. 
+We expect all contributions to follow our [Code of Conduct](https://github.com/sparcopen/opencon-dei-report/blob/master/CODE_OF_CONDUCT.MD). Contributions which don't will be rejected without further review.
 
 # Thank you!
 We take any feedback or comments about equity, diversity and inclusion seriously – thank you in advance to anyone who is contributing feedback, additions, corrections, and/or edits.
