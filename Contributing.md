@@ -1,30 +1,30 @@
 # Contribute to the Diversity, Equity, and Inclusion Report!
 
-While we've compiled our learnings from the last three years into this guide, we understand that there is always room for improvement. We hope to receive community feedback on the report, and welcome the community and members of the public to make contributions. We're hosting the report and centering discussion around Github to promote open feedback and discussion and allow community members to directly input on report content. This guide aims to help make how to contribute clear and easy.
+While we've compiled our learnings from the last three years into this guide, we understand that there is always room for improvement. We hope to receive community feedback on the report, and welcome the community and members of the public to make contributions.
 
-# How to contribute
+We're hosting the report and centering discussion around Github to promote open feedback and discussion and allow community members to directly input on report content. This guide aims to help make how to contribute clear and easy.
 
-## Give suggestions
+# How to
 
-### On Github start a discussion topic, for more general concerns (rather than specific edits)
+### Start a discussion topic, for more general concerns (rather than specific edits) on Github
 Do you see an issue in the report but would rather have us write the copy for it? Do you have a general concern that you'd like to raise publicly for discussion before we add it to the report? We encourage you to [**post a new Github Issue**](https://github.com/sparcopen/opencon-dei-report/issues/new). How to do this:
 1. Make sure you have a Github account, and are logged in.
 2. Click on the [Issues tab](https://github.com/sparcopen/opencon-dei-report/issues).
 3. Post your comment or feedback as an Issue by clicking "New Issue" in the upper right hand corner.
 4. If appropriate, assign one of the following labels to your issue:
- - Feedback
- - Discussion
- - Quick Fix
- - Correction
- - Additional Information
- - Resource/Link
+  * Feedback
+  * Discussion
+  * Quick Fix
+  * Correction
+  * Additional Information
+  * Resource/Link
 
 We encourage the community to contribute their feedback to [issues that have been raised by other community members](https://github.com/sparcopen/opencon-dei-report/issues/new), as well!
 
 ![makeanissue](http://g.recordit.co/uD49cWOhfi.gif)
 You may need to make an account before you can comment!
 
-### Privately over E-mail
+### Send feedback over E-mail
 If you're more comfortable providing your feedback privately, that is also an option! Please e-mail lorraine(at)sparcopen.org with any concerns, comments, or suggested changes.
 
 ## Make edits directly on the website
