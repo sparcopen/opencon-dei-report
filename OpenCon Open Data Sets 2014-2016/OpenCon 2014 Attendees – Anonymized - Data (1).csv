@@ -1,4 +1,4 @@
-Anon_ID,Gender,Citizenship Region,DEI Alum,DEI Scholarship,DEI Speaker,DEI Organizing Committee,DEI-Sponsor,DEI-Staff,DEI Scholarship Cost,DEI Speaker Category
+Anon_ID,Gender,Citizenship Region,DEI Attendees,DEI Scholarship,DEI Speaker,DEI Organizing Committee,DEI-Sponsor,DEI-Staff,DEI Scholarship Cost,DEI Speaker Category
 1,male,Africa,1,1,0,0,0,0,"$2,004.04",
 2,male,Northern America,1,0,1,1,0,0,$0.00,Project Presentation
 3,female,Latin America and the Caribbean,1,1,1,0,0,0,"$1,981.00",Project Presentation
@@ -116,37 +116,39 @@ Anon_ID,Gender,Citizenship Region,DEI Alum,DEI Scholarship,DEI Speaker,DEI Organ
 115,female,Northern America,1,0,0,0,0,0,$0.00,
 116,female,Northern America,1,0,1,0,0,0,$0.00,Project Presentation
 117,male,Northern America,1,0,0,0,0,0,$0.00,
-118,female,Northern America,0,0,0,0,0,0,$0.00,
-119,female,Northern America,0,0,0,0,0,0,$0.00,
-120,female,Asia,0,0,0,0,0,0,$0.00,
-121,male,Northern America,0,0,0,0,0,0,$0.00,
-122,male,Northern America,0,0,0,0,0,0,$0.00,
-123,female,Latin America and the Caribbean,0,0,0,0,0,0,$0.00,
-124,male,Northern America,0,0,1,0,0,0,$0.00,Panelist
-125,male,Northern America,0,0,1,0,0,0,$0.00,Panelist
-126,female,Latin America and the Caribbean,0,0,1,0,0,0,$0.00,Panelist
-127,male,Northern America,0,0,1,0,0,0,$0.00,Major Speaker
-128,female,Latin America and the Caribbean,0,0,1,0,0,0,$0.00,Major Speaker
-129,male,Northern America,0,0,1,0,0,0,$0.00,Panelist
-130,female,Europe,0,0,1,0,0,0,$0.00,"Panelist, Workshop Leader"
-131,male,Europe,0,0,1,0,0,0,$0.00,"Panelist, Workshop Leader"
-132,female,Northern America,0,0,1,0,0,0,$0.00,Keynote
-133,male,Europe,0,0,1,0,0,0,$0.00,Panelist
-134,female,Northern America,0,0,1,0,0,0,$0.00,Major Speaker
-135,male,Northern America,0,0,1,0,0,0,$0.00,Major Speaker
-136,female,Northern America,0,0,1,0,0,0,$0.00,Major Speaker
-137,male,Europe,0,0,1,0,0,0,$0.00,"Panelist, Major Speaker"
-138,male,Europe,0,0,1,0,0,0,$0.00,Panelist
-139,male,Northern America,0,0,1,0,0,0,$0.00,Keynote
-140,male,Europe,0,0,1,0,0,0,$0.00,Panelist
-141,female,Europe,0,0,0,0,1,0,$0.00,
-142,male,Europe,0,0,0,0,1,0,$0.00,
-143,female,Northern America,0,0,0,0,1,0,$0.00,
-144,male,???,0,0,0,0,1,0,$0.00,
-145,female,Europe,0,0,0,0,1,0,$0.00,
-146,female,???,0,0,0,0,1,0,$0.00,
-147,female,Northern America,0,0,1,1,0,1,$0.00,"Panelist, Panel Moderator"
-148,female,Northern America,0,0,1,0,0,1,$0.00,Panelist
-149,female,Northern America,0,0,1,0,0,1,$0.00,Panelist
-150,male,Europe,0,0,1,1,0,1,$0.00,"Panel Moderator, Workshop Leader"
-151,male,Northern America,0,0,1,1,0,1,$0.00,Workshop Leader
+118,female,Northern America,1,0,0,0,0,0,$0.00,
+119,female,Northern America,1,0,0,0,0,0,$0.00,
+120,female,Asia,1,0,0,0,0,0,$0.00,
+121,male,Northern America,1,0,0,0,0,0,$0.00,
+122,male,Northern America,1,0,0,0,0,0,$0.00,
+123,female,Latin America and the Caribbean,1,0,0,0,0,0,$0.00,
+124,male,Northern America,1,0,1,0,0,0,$0.00,Panelist
+125,male,Northern America,1,0,1,0,0,0,$0.00,Panelist
+126,female,Latin America and the Caribbean,1,0,1,0,0,0,$0.00,Panelist
+127,male,Northern America,1,0,1,0,0,0,$0.00,Major Speaker
+128,female,Latin America and the Caribbean,1,0,1,0,0,0,$0.00,Major Speaker
+129,male,Northern America,1,0,1,0,0,0,$0.00,Panelist
+130,female,Europe,1,0,1,0,0,0,$0.00,"Panelist, Workshop Leader"
+131,male,Europe,1,0,1,0,0,0,$0.00,"Panelist, Workshop Leader"
+132,female,Northern America,1,0,1,0,0,0,$0.00,Keynote
+133,male,Europe,1,0,1,0,0,0,$0.00,Panelist
+134,female,Northern America,1,0,1,0,0,0,$0.00,Major Speaker
+135,male,Northern America,1,0,1,0,0,0,$0.00,Major Speaker
+136,female,Northern America,1,0,1,0,0,0,$0.00,Major Speaker
+137,male,Europe,1,0,1,0,0,0,$0.00,"Panelist, Major Speaker"
+138,male,Europe,1,0,1,0,0,0,$0.00,Panelist
+139,male,Northern America,1,0,1,0,0,0,$0.00,Keynote
+140,male,Europe,1,0,1,0,0,0,$0.00,Panelist
+141,female,Europe,1,0,0,0,1,0,$0.00,
+142,male,Europe,1,0,0,0,1,0,$0.00,
+143,female,Northern America,1,0,0,0,1,0,$0.00,
+144,male,???,1,0,0,0,1,0,$0.00,
+145,female,Europe,1,0,0,0,1,0,$0.00,
+146,female,???,1,0,0,0,1,0,$0.00,
+147,female,Northern America,1,0,1,1,0,1,$0.00,"Panelist, Panel Moderator"
+148,female,Northern America,1,0,1,0,0,1,$0.00,Panelist
+149,female,Northern America,1,0,1,0,0,1,$0.00,Panelist
+150,male,Europe,1,0,1,1,0,1,$0.00,"Panel Moderator, Workshop Leader"
+151,male,Northern America,1,0,1,1,0,1,$0.00,Workshop Leader
+152,female,Northern America,0,0,0,1,0,0,$0.00,
+153,male,Northern America,0,0,0,1,0,0,$0.00,

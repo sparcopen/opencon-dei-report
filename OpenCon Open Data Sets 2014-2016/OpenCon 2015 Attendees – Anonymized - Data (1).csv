@@ -1,4 +1,4 @@
-Anon_ID,Gender,Citizenship Region,DEI Alum,DEI Scholarship,DEI Speaker,DEI Organizing Committee,DEI Sponsor,DEI Staff,DEI Scholarship Cost,DEI Speaker Category
+Anon_ID,Gender,Citizenship Region,DEI Attendees,DEI Scholarship,DEI Speaker,DEI Organizing Committee,DEI Sponsor,DEI Staff,DEI Scholarship Cost,DEI Speaker Category
 1,Male,Europe,1,1,0,0,0,0,$226.00,
 2,Female,Oceania,1,0,0,0,0,0,0,
 3,Female,Northern America,1,1,1,0,0,0,$586.10,"Panelist, Workshop Leader"
@@ -33,42 +33,42 @@ Anon_ID,Gender,Citizenship Region,DEI Alum,DEI Scholarship,DEI Speaker,DEI Organ
 32,Female,Latin America and the Caribbean,1,0,1,1,0,0,0,"Panelist, Workshop Leader"
 33,Male,Latin America and the Caribbean,1,0,0,1,0,0,0,
 34,Female,Africa,1,0,1,1,0,0,0,Panelist
-35,Male,Europe,0,0,0,0,0,0,0,
-36,Female,Europe,0,0,0,0,0,0,0,
-37,Female,Northern America,0,0,0,0,0,0,0,
-38,Male,Europe,0,0,0,0,0,0,0,
-39,Male,Europe,0,0,0,0,0,0,0,
-40,Male,Europe,0,0,1,0,0,0,0,Panelist
-41,Male,Europe,0,0,0,0,0,0,0,
-42,Male,Europe,0,0,1,0,0,0,0,Panelist
-43,Female,Europe,0,0,1,0,0,0,0,"Panelist, Workhshop Leader"
-44,Male,Europe,0,0,1,0,0,0,0,Keynote
-45,Female,Northern America,0,0,1,0,0,0,0,
-46,Female,Europe,0,0,1,0,0,0,0,"Panelist, Workshop Leader"
-47,Male,Europe,0,0,1,0,0,0,0,Keynote
-48,Female,Northern America,0,0,1,0,0,0,0,Panelist
-49,Female,Europe,0,0,1,0,0,0,0,Panelist
-50,Male,Europe,0,0,1,0,0,0,0,Panelist
-51,Male,Europe,0,0,1,0,0,0,0,
-52,Male,Northern America,0,0,1,0,0,0,0,Keynote
-53,Male,Europe,0,0,1,0,0,0,0,Keynote
-54,Male,Europe,0,0,1,0,0,0,0,Keynote
-55,Female,Europe,0,0,1,0,0,0,0,Panelist
-56,Male,Europe,0,0,1,0,0,0,0,
-57,Female,Europe,0,0,1,0,0,0,0,Keynote
-58,Female,Northern America,0,0,0,0,1,0,0,
-59,Male,Europe,0,0,0,0,1,0,0,
-60,Female,Europe,0,0,0,0,1,0,0,
-61,Female,Europe,0,0,0,0,1,0,0,
-62,Female,Europe,0,0,0,0,1,0,0,
-63,Female,Northern America,0,0,0,0,1,0,0,
-64,Female,Northern America,0,0,0,0,1,0,0,
-65,Female,Europe,0,0,0,0,1,0,0,
-66,Female,Northern America,0,0,0,0,0,1,0,
-67,Female,Northern America,0,0,0,0,0,1,0,
-68,Female,Northern America,0,0,1,1,0,1,0,"Panel Moderator, Workshop Leader"
-69,Male,Northern America,0,0,0,1,0,1,0,
-70,Male,Europe,0,0,1,1,0,1,0,Workshop Leader
+35,Male,Europe,1,0,0,0,0,0,0,
+36,Female,Europe,1,0,0,0,0,0,0,
+37,Female,Northern America,1,0,0,0,0,0,0,
+38,Male,Europe,1,0,0,0,0,0,0,
+39,Male,Europe,1,0,0,0,0,0,0,
+40,Male,Europe,1,0,1,0,0,0,0,Panelist
+41,Male,Europe,1,0,0,0,0,0,0,
+42,Male,Europe,1,0,1,0,0,0,0,Panelist
+43,Female,Europe,1,0,1,0,0,0,0,"Panelist, Workhshop Leader"
+44,Male,Europe,1,0,1,0,0,0,0,Keynote
+45,Female,Northern America,1,0,1,0,0,0,0,
+46,Female,Europe,1,0,1,0,0,0,0,"Panelist, Workshop Leader"
+47,Male,Europe,1,0,1,0,0,0,0,Keynote
+48,Female,Northern America,1,0,1,0,0,0,0,Panelist
+49,Female,Europe,1,0,1,0,0,0,0,Panelist
+50,Male,Europe,1,0,1,0,0,0,0,Panelist
+51,Male,Europe,1,0,1,0,0,0,0,
+52,Male,Northern America,1,0,1,0,0,0,0,Keynote
+53,Male,Europe,1,0,1,0,0,0,0,Keynote
+54,Male,Europe,1,0,1,0,0,0,0,Keynote
+55,Female,Europe,1,0,1,0,0,0,0,Panelist
+56,Male,Europe,1,0,1,0,0,0,0,
+57,Female,Europe,1,0,1,0,0,0,0,Keynote
+58,Female,Northern America,1,0,0,0,1,0,0,
+59,Male,Europe,1,0,0,0,1,0,0,
+60,Female,Europe,1,0,0,0,1,0,0,
+61,Female,Europe,1,0,0,0,1,0,0,
+62,Female,Europe,1,0,0,0,1,0,0,
+63,Female,Northern America,1,0,0,0,1,0,0,
+64,Female,Northern America,1,0,0,0,1,0,0,
+65,Female,Europe,1,0,0,0,1,0,0,
+66,Female,Northern America,1,0,0,0,0,1,0,
+67,Female,Northern America,1,0,0,0,0,1,0,
+68,Female,Northern America,1,0,1,1,0,1,0,"Panel Moderator, Workshop Leader"
+69,Male,Northern America,1,0,0,1,0,1,0,
+70,Male,Europe,1,0,1,1,0,1,0,Workshop Leader
 71,Female,Northern America,1,0,0,0,0,0,0,
 72,Male,Latin America and the Caribbean,1,1,1,0,0,0,"$1,173.43",Project Presenter
 73,Male,Europe,1,0,0,0,0,0,0,
@@ -153,3 +153,7 @@ Anon_ID,Gender,Citizenship Region,DEI Alum,DEI Scholarship,DEI Speaker,DEI Organ
 152,Male,Africa,1,1,0,0,0,0,$729.62,
 153,Male,Asia,1,1,0,0,0,0,$715.05,
 154,Male,Asia,1,1,1,0,0,0,"$1,441.53","Panelist, Workshop Leader"
+155,Male,Asia,0,0,0,1,0,0,0,
+156,Female,Europe,0,0,0,1,0,0,0,
+157,Male,Europe,0,0,0,1,0,0,0,
+158,Female,Europe,0,0,0,1,0,0,0,

@@ -1,14 +1,14 @@
-Anon_ID,gender,citizenship region,DEI Alum,DEI Scholarship,DEI Speaker,DEI Organizing Committee,DEI Sponsor,DEI Staff,DEI Scholarship Cost,DEI Speaker Category
-1,male,Europe,0,0,0,0,0,0,$0.00,
-2,female,Northern America,0,0,0,0,0,0,$0.00,
-3,male,Europe,0,0,0,0,0,0,$0.00,
-4,male,Europe,0,0,0,0,0,0,$0.00,
-5,male,Northern America,0,0,0,0,0,0,$0.00,
-6,female,Northern America,0,0,0,0,0,0,$0.00,
-7,male,Northern America,0,0,1,0,0,0,$0.00,Project Presenter
-8,male,Europe,0,0,0,0,0,0,$0.00,
-9,male,Northern America,0,0,0,0,0,0,$0.00,
-10,female,Northern America,0,0,0,0,0,0,$0.00,
+Anon_ID,gender,citizenship region,DEI Attendees,DEI Scholarship,DEI Speaker,DEI Organizing Committee,DEI Sponsor,DEI Staff,DEI Scholarship Cost,DEI Speaker Category
+1,male,Europe,1,0,0,0,0,0,$0.00,
+2,female,Northern America,1,0,0,0,0,0,$0.00,
+3,male,Europe,1,0,0,0,0,0,$0.00,
+4,male,Europe,1,0,0,0,0,0,$0.00,
+5,male,Northern America,1,0,0,0,0,0,$0.00,
+6,female,Northern America,1,0,0,0,0,0,$0.00,
+7,male,Northern America,1,0,1,0,0,0,$0.00,Project Presenter
+8,male,Europe,1,0,0,0,0,0,$0.00,
+9,male,Northern America,1,0,0,0,0,0,$0.00,
+10,female,Northern America,1,0,0,0,0,0,$0.00,
 11,male,Northern America,1,0,0,0,0,0,$0.00,
 12,female,Northern America,1,0,0,0,0,0,$0.00,
 13,male,Northern America,1,0,0,0,0,0,$0.00,
@@ -118,7 +118,7 @@ Anon_ID,gender,citizenship region,DEI Alum,DEI Scholarship,DEI Speaker,DEI Organ
 117,male,Europe,1,0,0,1,0,0,$0.00,
 118,female,Africa,1,0,0,1,0,0,$0.00,
 119,female,Northern America,1,0,1,1,0,0,$0.00,"Panel Moderator, Workshop Leader"
-120,male,Northern America,1,0,1,1,0,0,$0.00,Workshop Leader
+120,male,Northern America,1,0,1,0,0,0,$0.00,Workshop Leader
 121,male,Europe,1,0,1,0,0,0,$0.00,Workshop Leader
 122,non-binary,Europe,1,1,0,0,0,0,$300.00,
 123,male,Europe,1,1,1,0,0,0,"$1,495.26",Panelist
@@ -143,21 +143,21 @@ Anon_ID,gender,citizenship region,DEI Alum,DEI Scholarship,DEI Speaker,DEI Organ
 142,male,Northern America,1,1,0,0,0,0,$515.70,
 143,female,Northern America,1,1,0,0,0,0,$300.00,
 144,female,Northern America,1,1,1,0,0,0,$300.00,Panelist
-145,male,Northern America,0,0,1,0,0,0,$0.00,Panelist
-146,Male,Northern America,0,0,1,0,0,0,$0.00,Keynote
-147,Male,Northern America,0,0,1,0,0,0,$0.00,Panelist
-148,Female,Northern America,0,0,1,0,0,0,$0.00,Keynote
-149,female,Northern America,0,0,0,0,1,0,$0.00,
-150,female,Northern America,0,0,1,0,1,0,$0.00,Project Presenter
-151,male,Europe,0,0,0,0,1,0,$0.00,
-152,Female,Europe,0,0,0,0,1,0,$0.00,
-153,Male,Northern America,0,0,0,0,1,0,$0.00,
-154,Male,Northern America,0,0,0,0,1,0,$0.00,
-155,Female,Northern America,0,0,0,0,1,0,$0.00,
+145,male,Northern America,1,0,1,0,0,0,$0.00,Panelist
+146,Male,Northern America,1,0,1,0,0,0,$0.00,Keynote
+147,Male,Northern America,1,0,1,0,0,0,$0.00,Panelist
+148,Female,Northern America,1,0,1,0,0,0,$0.00,Keynote
+149,female,Northern America,1,0,0,0,1,0,$0.00,
+150,female,Northern America,1,0,1,0,1,0,$0.00,Project Presenter
+151,male,Europe,1,0,0,0,1,0,$0.00,
+152,Female,Europe,1,0,0,0,1,0,$0.00,
+153,Male,Northern America,1,0,0,0,1,0,$0.00,
+154,Male,Northern America,1,0,0,0,1,0,$0.00,
+155,Female,Northern America,1,0,0,0,1,0,$0.00,
 156,Male,Northern America,1,0,0,0,1,0,$0.00,
 157,Female,Northern America,1,0,0,0,1,0,$0.00,
 158,Female,Northern America,1,0,0,0,1,0,$0.00,
-159,Male,Northern America,0,0,0,0,1,0,$0.00,
+159,Male,Northern America,1,0,0,0,1,0,$0.00,
 160,female,Northern America,1,0,0,0,0,0,$0.00,
 161,female,Northern America,1,0,0,0,0,0,$0.00,
 162,male,Northern America,1,0,0,0,0,0,$0.00,
@@ -204,19 +204,20 @@ Anon_ID,gender,citizenship region,DEI Alum,DEI Scholarship,DEI Speaker,DEI Organ
 203,male,Northern America,1,0,0,0,0,0,$0.00,
 204,female,Northern America,1,0,0,0,0,0,$0.00,
 205,female,Northern America,1,0,1,0,0,0,$0.00,"Panelist, Workshop Leader"
-206,female,Northern America,0,0,1,1,0,1,$0.00,"Project Presenter, Workshop Leader, Advocacy Day Speaker"
-207,male,Northern America,0,0,1,0,0,1,$0.00,"Panel Moderator, Workshop Leader"
-208,female,Northern America,0,0,1,1,0,1,$0.00,Workshop Leader
-209,male,Northern America,0,0,0,1,0,1,$0.00,
-210,male,Europe,0,0,0,1,0,1,$0.00,
-211,female,Northern America,0,0,0,0,0,1,$0.00,
-212,female,Northern America,0,0,1,0,0,1,$0.00,Advocacy Day Speaker
-213,female,Northern America,0,0,0,0,0,1,$0.00,
-214,Female,???,0,0,0,0,0,0,$0.00,
-215,Female,???,0,0,0,0,0,0,$0.00,
-216,Male,Latin America and the Caribbean,0,0,0,0,0,0,$0.00,
-217,Male,???,0,0,0,0,0,0,$0.00,
-218,Male,???,0,0,0,0,0,0,$0.00,
-219,Female,???,0,0,0,0,0,0,$0.00,
-220,Male,Africa,0,0,0,1,0,0,$0.00,
-221,Male,Latin America and the Caribbean,0,0,0,1,0,0,$0.00,
+206,female,Northern America,1,0,1,1,0,1,$0.00,"Project Presenter, Workshop Leader, Advocacy Day Speaker"
+207,male,Northern America,1,0,1,0,0,1,$0.00,"Panel Moderator, Workshop Leader"
+208,female,Northern America,1,0,1,1,0,1,$0.00,Workshop Leader
+209,male,Northern America,1,0,0,1,0,1,$0.00,
+210,male,Europe,1,0,0,1,0,1,$0.00,
+211,female,Northern America,1,0,0,0,0,1,$0.00,
+212,female,Northern America,1,0,1,0,0,1,$0.00,Advocacy Day Speaker
+213,female,Northern America,1,0,0,0,0,1,$0.00,
+214,Female,???,1,0,0,0,0,0,$0.00,
+215,Female,???,1,0,0,0,0,0,$0.00,
+216,Male,Latin America and the Caribbean,1,0,0,0,0,0,$0.00,
+217,Male,???,1,0,0,0,0,0,$0.00,
+218,Male,???,1,0,0,0,0,0,$0.00,
+219,Female,???,1,0,0,0,0,0,$0.00,
+220,Male,Africa,1,0,0,1,0,0,$0.00,
+221,Male,Latin America and the Caribbean,1,0,0,1,0,0,$0.00,
+222,Female,Europe,0,0,0,1,0,0,$0.00,
