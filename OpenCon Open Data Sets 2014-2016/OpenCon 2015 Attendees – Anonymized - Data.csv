@@ -1,0 +1,155 @@
+Anon_ID,Gender,Citizenship Region,DEI Alum,DEI Scholarship,DEI Speaker,DEI Organizing Committee,DEI Sponsor,DEI Staff,DEI Scholarship Cost,DEI Speaker Category
+1,Male,Europe,1,1,0,0,0,0,$226.00,
+2,Female,Oceania,1,0,0,0,0,0,0,
+3,Female,Northern America,1,1,1,0,0,0,$586.10,"Panelist, Workshop Leader"
+4,Male,Europe,1,1,0,0,0,0,$226.00,
+5,Male,Latin America and the Caribbean,1,1,0,0,0,0,$250.00,
+6,Female,Europe,1,1,1,0,0,0,$731.73,Panelist
+7,Female,Asia,1,1,0,0,0,0,$476.00,
+8,Male,Northern America,1,1,0,0,0,0,"$1,632.80",
+9,Male,Northern America,1,1,1,0,0,0,$250.00,"Panelist, Workshop Leader"
+10,Male,Africa,1,1,0,0,0,0,$476.00,
+11,Male,Africa,1,1,0,0,0,0,$543.80,
+12,Male,Europe,1,1,0,0,0,0,$250.00,
+13,Female,Europe,1,1,0,0,0,0,$496.79,
+14,Male,Asia,1,1,0,0,0,0,$250.00,
+15,Male,Europe,1,1,1,0,0,0,$250.00,Project Presenter
+16,Male,Europe,1,1,0,0,0,0,$250.00,
+17,Male,Europe,1,1,1,0,0,0,$250.00,Project Presenter
+18,Male,Europe,1,1,1,0,0,0,$250.00,Panelist
+19,Female,Oceania,1,1,1,0,0,0,$250.00,"Panel Moderator, Workshop Leader"
+20,Female,Northern America,1,1,1,0,0,0,$250.00,Panelist
+21,Male,Europe,1,1,1,0,0,0,$476.00,Project Presenter
+22,Female,Northern America,1,1,1,0,0,0,$476.00,Project Presenter
+23,Male,Northern America,1,1,1,0,0,0,$476.00,Project Presenter
+24,Male,Europe,1,0,0,1,0,0,0,
+25,Male,Europe,1,0,0,1,0,0,0,
+26,Male,Asia,1,0,0,1,0,0,0,
+27,Male,Europe,1,0,0,1,0,0,0,
+28,Female,Northern America,1,0,1,1,0,0,0,"Panel Moderator, Workshop Leader"
+29,Male,Europe,1,0,1,1,0,0,0,Workshop Leader
+30,Male,Europe,1,0,1,1,0,0,0,Project Presenter
+31,Female,Northern America,1,0,1,1,0,0,0,"Keynote, Workshop Leader"
+32,Female,Latin America and the Caribbean,1,0,1,1,0,0,0,"Panelist, Workshop Leader"
+33,Male,Latin America and the Caribbean,1,0,0,1,0,0,0,
+34,Female,Africa,1,0,1,1,0,0,0,Panelist
+35,Male,Europe,0,0,0,0,0,0,0,
+36,Female,Europe,0,0,0,0,0,0,0,
+37,Female,Northern America,0,0,0,0,0,0,0,
+38,Male,Europe,0,0,0,0,0,0,0,
+39,Male,Europe,0,0,0,0,0,0,0,
+40,Male,Europe,0,0,1,0,0,0,0,Panelist
+41,Male,Europe,0,0,0,0,0,0,0,
+42,Male,Europe,0,0,1,0,0,0,0,Panelist
+43,Female,Europe,0,0,1,0,0,0,0,"Panelist, Workhshop Leader"
+44,Male,Europe,0,0,1,0,0,0,0,Keynote
+45,Female,Northern America,0,0,1,0,0,0,0,
+46,Female,Europe,0,0,1,0,0,0,0,"Panelist, Workshop Leader"
+47,Male,Europe,0,0,1,0,0,0,0,Keynote
+48,Female,Northern America,0,0,1,0,0,0,0,Panelist
+49,Female,Europe,0,0,1,0,0,0,0,Panelist
+50,Male,Europe,0,0,1,0,0,0,0,Panelist
+51,Male,Europe,0,0,1,0,0,0,0,
+52,Male,Northern America,0,0,1,0,0,0,0,Keynote
+53,Male,Europe,0,0,1,0,0,0,0,Keynote
+54,Male,Europe,0,0,1,0,0,0,0,Keynote
+55,Female,Europe,0,0,1,0,0,0,0,Panelist
+56,Male,Europe,0,0,1,0,0,0,0,
+57,Female,Europe,0,0,1,0,0,0,0,Keynote
+58,Female,Northern America,0,0,0,0,1,0,0,
+59,Male,Europe,0,0,0,0,1,0,0,
+60,Female,Europe,0,0,0,0,1,0,0,
+61,Female,Europe,0,0,0,0,1,0,0,
+62,Female,Europe,0,0,0,0,1,0,0,
+63,Female,Northern America,0,0,0,0,1,0,0,
+64,Female,Northern America,0,0,0,0,1,0,0,
+65,Female,Europe,0,0,0,0,1,0,0,
+66,Female,Northern America,0,0,0,0,0,1,0,
+67,Female,Northern America,0,0,0,0,0,1,0,
+68,Female,Northern America,0,0,1,1,0,1,0,"Panel Moderator, Workshop Leader"
+69,Male,Northern America,0,0,0,1,0,1,0,
+70,Male,Europe,0,0,1,1,0,1,0,Workshop Leader
+71,Female,Northern America,1,0,0,0,0,0,0,
+72,Male,Latin America and the Caribbean,1,1,1,0,0,0,"$1,173.43",Project Presenter
+73,Male,Europe,1,0,0,0,0,0,0,
+74,Male,Northern America,1,0,1,0,0,0,0,Panelist
+75,Male,Northern America,1,0,0,0,0,0,0,
+76,Female,Northern America,1,0,1,0,0,0,0,Workshop Leader
+77,Male,Europe,1,0,0,0,0,0,0,
+78,Male,Northern America,1,0,0,0,0,0,0,
+79,Male,Northern America,1,0,0,0,0,0,0,
+80,Female,Northern America,1,0,0,0,0,0,0,
+81,Male,Northern America,1,0,1,0,0,0,0,Project Presenter
+82,Female,Northern America,1,1,0,0,0,0,$998.40,
+83,Female,Northern America,1,0,0,0,0,0,0,
+84,Female,Northern America,1,0,0,0,0,0,0,
+85,Female,Northern America,1,0,0,0,0,0,0,
+86,Female,Northern America,1,0,0,0,0,0,0,
+87,Female,Northern America,1,0,0,0,0,0,0,
+88,Male,Northern America,1,0,0,0,0,0,0,
+89,Male,Asia,1,0,0,0,0,0,0,
+90,Female,Europe,1,0,0,0,0,0,0,
+91,Female,Northern America,1,0,0,0,0,0,0,
+92,Female,Northern America,1,0,0,0,0,0,0,
+93,Female,Northern America,1,0,0,0,0,0,0,
+94,Female,Northern America,1,0,0,0,0,0,0,
+95,Female,Oceania,1,0,0,0,0,0,0,
+96,Female,Northern America,1,0,0,0,0,0,0,
+97,Female,Northern America,1,0,0,0,0,0,0,
+98,Female,Northern America,1,0,0,0,0,0,0,
+99,Female,Northern America,1,0,0,0,0,0,0,
+100,Female,Northern America,1,0,1,0,0,0,0,Workshop Leader
+101,Male,Northern America,1,0,0,0,0,0,0,
+102,Female,Asia,1,0,0,0,0,0,0,
+103,Female,Latin America and the Caribbean,1,0,1,0,0,0,0,Project Presenter
+104,Male,Europe,1,0,0,0,0,0,0,
+105,Male,Europe,1,0,1,0,0,0,0,Project Presenter
+106,Male,Europe,1,0,0,0,0,0,0,
+107,Male,Europe,1,0,0,0,0,0,0,
+108,Female,Europe,1,0,0,0,0,0,0,
+109,Male,Europe,1,0,0,0,0,0,0,
+110,Male,Europe,1,0,0,0,0,0,0,
+111,Female,Northern America,1,0,0,0,0,0,0,
+112,Female,Europe,1,0,0,0,0,0,0,
+113,Male,Europe,1,0,0,0,0,0,0,
+114,Male,Europe,1,0,0,0,0,0,0,
+115,Female,Northern America,1,0,0,0,0,0,0,
+116,Male,Europe,1,0,0,0,0,0,0,
+117,Female,Europe,1,0,0,0,0,0,0,
+118,Male,Europe,1,0,1,0,0,0,0,"Project Presenter, Workshop Leader"
+119,Female,Northern America,1,0,1,0,0,0,0,Panelist
+120,Male,Asia,1,0,1,0,0,0,0,Panelist
+121,Male,Europe,1,0,1,0,0,0,0,Project Presenter
+122,Male,Europe,1,0,1,0,0,0,0,Workshop Leader
+123,Female,Africa,1,0,0,0,0,0,0,
+124,Male,Europe,1,0,1,1,0,0,0,"Panelist, Project Presenter, Workshop Leader"
+125,Male,Europe,1,1,0,0,0,0,$250.00,
+126,Male,Europe,1,1,0,0,0,0,$250.00,
+127,Female,Europe,1,1,0,0,0,0,$250.00,
+128,Male,Europe,1,1,0,0,0,0,$250.00,
+129,Male,Europe,1,1,0,0,0,0,$250.00,
+130,Male,Northern America,1,1,0,0,0,0,$250.00,
+131,Male,Europe,1,0,0,0,0,0,0,
+132,Male,Europe,1,0,0,0,0,0,0,
+133,Female,Europe,1,1,0,0,0,0,$250.00,
+134,Female,Europe,1,1,1,0,0,0,$680.75,Panelist
+135,Male,Europe,1,1,0,0,0,0,$586.63,
+136,Female,Africa,1,1,0,0,0,0,$558.94,
+137,Female,Europe,1,1,0,0,0,0,$545.21,
+138,Female,Europe,1,1,0,0,0,0,$734.30,
+139,Female,Europe,1,1,0,0,0,0,$606.40,
+140,Male,Europe,1,1,0,0,0,0,$584.48,
+141,Female,Europe,1,1,0,0,0,0,$578.55,
+142,Female,Europe,1,1,0,0,0,0,$730.73,
+143,Female,Europe,1,1,0,0,0,0,$645.27,
+144,Male,Europe,1,1,1,0,0,0,$601.40,"Panel Moderator, Workshop Leader"
+145,Female,Europe,1,1,0,0,0,0,$584.48,
+146,Female,Northern America,1,1,1,0,0,0,"$1,253.12","Panelist, Workshop Leader"
+147,Male,Northern America,1,1,1,0,0,0,"$1,519.60",Project Presenter
+148,Female,Northern America,1,1,0,0,0,0,$734.01,
+149,Male,Latin America and the Caribbean,1,1,0,0,0,0,"$1,696.62",
+150,Female,Latin America and the Caribbean,1,1,0,0,0,0,$476.00,
+151,Male,Africa,1,1,1,0,0,0,"$1,473.34",Workshop Leader
+152,Male,Africa,1,1,0,0,0,0,$729.62,
+153,Male,Asia,1,1,0,0,0,0,$715.05,
+154,Male,Asia,1,1,1,0,0,0,"$1,441.53","Panelist, Workshop Leader"
