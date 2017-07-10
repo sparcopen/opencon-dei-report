@@ -6,8 +6,8 @@ While we've compiled our learnings from the last three years into this guide, we
 
 ## Give suggestions
 
-### Start a discussion topic, for more general concerns (rather than specific edits)
-Do you see an issue in the report but would rather have us write the copy for it? Do you have a general concern that you'd like to raise publicly for discussion before we add it to the wiki? We encourage you to [**post a new Github Issue**](https://github.com/sparcopen/opencon-dei-report/issues). How to do this:
+### On Github start a discussion topic, for more general concerns (rather than specific edits)
+Do you see an issue in the report but would rather have us write the copy for it? Do you have a general concern that you'd like to raise publicly for discussion before we add it to the report? We encourage you to [**post a new Github Issue**](https://github.com/sparcopen/opencon-dei-report/issues/new). How to do this:
 1. Make sure you have a Github account, and are logged in.
 2. Click on the [Issues tab](https://github.com/sparcopen/opencon-dei-report/issues).
 3. Post your comment or feedback as an Issue by clicking "New Issue" in the upper right hand corner.
@@ -19,14 +19,31 @@ Do you see an issue in the report but would rather have us write the copy for it
  - Additional Information
  - Resource/Link
 
-We encourage the community to contribute their feedback to issues that have been raised by other community members, as well!
+We encourage the community to contribute their feedback to [issues that have been raised by other community members](https://github.com/sparcopen/opencon-dei-report/issues/new), as well!
+
+![makeanissue](http://g.recordit.co/uD49cWOhfi.gif)
+You may need to make an account before you can comment!
 
 ### Privately over E-mail
 If you're more comfortable providing your feedback privately, that is also an option! Please e-mail lorraine(at)sparcopen.org with any concerns, comments, or suggested changes.
 
 ## Make edits directly on the website
 
+We're using Github to make directly editing the website as easy as possible for the community.
 
+Step 1: Get a Github Account: https://github.com/login
+Step 2: Find the file you'd like to edit: https://github.com/sparcopen/opencon-dei-report
+Step 3: Hit the "pen" in the top right hand sidebar
+Step 4: Make your desired edits.
+Step 5: Scroll to the bottom of the screen and hit "Propose file change"
+Step 6: At the top of the page hit "Create pull request" if you're happy with all your changes
+Step 7: You'll be taken to a page where you can explain your edits to us (if it's not obvious). Write what's needed and hit "Create pull request" (yes, again).
+
+U+1F389 U+1F389 U+1F389 You're done! U+1F389 U+1F389 U+1F389
+
+We'll review your edit and add it to the site.  
+
+There are more advanced workflows and ways you could contribute, but, if you'd just like to make edits and suggestions this should do! If you have any trouble, start an issue or email us.
 
 <!-- Is there information, resources, or corrections you'd like to make to our suggested practices for inclusive and accessible event planning? Please feel free to contribute directly to the wiki. Here are some quick instructions for contributing:
 
