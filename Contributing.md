@@ -8,7 +8,7 @@ We're hosting the report and centering discussion around Github to promote open 
 
 ### Start a discussion topic, for more general concerns (rather than specific edits) on Github
 Do you see an issue in the report but would rather have us write the copy for it? Do you have a general concern that you'd like to raise publicly for discussion before we add it to the report? We encourage you to [**post a new Github Issue**](https://github.com/sparcopen/opencon-dei-report/issues/new). How to do this:
-1. Make sure you have a Github account, and are logged in.
+1. Make sure you have a Github account, and are logged in. They're free and need very little information to make!
 2. Click on the [Issues tab](https://github.com/sparcopen/opencon-dei-report/issues).
 3. Post your comment or feedback as an Issue by clicking "New Issue" in the upper right hand corner.
 
@@ -55,8 +55,8 @@ Periodically, we'll take edits made to the website and update the PDF for downlo
 
 # Our license and your contributions
 Please note that all of OpenCon's Diversity, Equity, and Inclusion content is [licensed CC-BY](https://creativecommons.org/licenses/by/4.0/), which means others are free to:
-- (1) Share — copy and redistribute the material in any medium or format
-- (2) Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+* (1) Share — copy and redistribute the material in any medium or format
+* (2) Adapt — remix, transform, and build upon the material for any purpose, even commercially.
 
 Your contributions will be licensed CC-BY.
 
