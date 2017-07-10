@@ -17,12 +17,11 @@ Although OpenCon participants come from diverse geographical locations, over the
 
 ### What does the repository contain?  
 
-#### - Files for digital version of report, which can be found at: https://sparcopen.github.io/opencon-dei-report/
+* Files for the report
+* The website for the report website
+* Downloadable open data sets from OpenCon
+* Contributor Guidelines and other project documentation
 
-#### - Downloadable open data sets from OpenCon
-
-#### - Contributor Guidelines
-
-# More from OpenCon
+## More from OpenCon
 
 We have a couple of other repositories for OpenCon including one where we plan OpenCon openly. You can find them [here](https://github.com/sparcopen/).
