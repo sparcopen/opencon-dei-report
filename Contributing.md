@@ -31,13 +31,13 @@ If you're more comfortable providing your feedback privately, that is also an op
 
 We're using Github to make directly editing the website as easy as possible for the community.
 
-Step 1: Get a Github Account: https://github.com/login
-Step 2: Find the file you'd like to edit: https://github.com/sparcopen/opencon-dei-report
-Step 3: Hit the "pen" in the top right hand sidebar
-Step 4: Make your desired edits.
-Step 5: Scroll to the bottom of the screen and hit "Propose file change"
-Step 6: At the top of the page hit "Create pull request" if you're happy with all your changes
-Step 7: You'll be taken to a page where you can explain your edits to us (if it's not obvious). Write what's needed and hit "Create pull request" (yes, again).
+* Step 1: Get a Github Account: https://github.com/login
+* Step 2: Find the file you'd like to edit: https://github.com/sparcopen/opencon-dei-report
+* Step 3: Hit the "pen" in the top right hand sidebar
+* Step 4: Make your desired edits.
+* Step 5: Scroll to the bottom of the screen and hit "Propose file change"
+* Step 6: At the top of the page hit "Create pull request" if you're happy with all your changes
+* Step 7: You'll be taken to a page where you can explain your edits to us (if it's not obvious). Write what's needed and hit "Create pull request" (yes, again).
 
 U+1F389 U+1F389 U+1F389 You're done! U+1F389 U+1F389 U+1F389
 
