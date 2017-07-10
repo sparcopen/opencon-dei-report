@@ -51,7 +51,7 @@ When making edits, please make sure you are keeping consistent and using Markdow
 
 # Updating the PDF
 
-Periodically, we'll take edits made to the website and update the PDF for download. We'll store previous versions of the PDF [here]().
+Periodically, we'll take edits made to the website and update the PDF for download. We'll store previous versions of the PDF [here](https://github.com/sparcopen/opencon-dei-report/tree/master/report-pdf).
 
 # Our license and your contributions
 Please note that all of OpenCon's Diversity, Equity, and Inclusion content is [licensed CC-BY](https://creativecommons.org/licenses/by/4.0/), which means others are free to:
