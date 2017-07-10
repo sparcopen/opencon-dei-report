@@ -39,7 +39,7 @@ We're using Github to make directly editing the website as easy as possible for 
 * Step 6: At the top of the page hit "Create pull request" if you're happy with all your changes
 * Step 7: You'll be taken to a page where you can explain your edits to us (if it's not obvious). Write what's needed and hit "Create pull request" (yes, again).
 
-U+1F389 U+1F389 U+1F389 You're done! U+1F389 U+1F389 U+1F389
+:confetti_ball: :confetti_ball: :confetti_ball: You're done! :confetti_ball: :confetti_ball: :confetti_ball:
 
 We'll review your edit and add it to the site.  
 
